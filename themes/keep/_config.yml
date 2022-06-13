@@ -53,16 +53,16 @@ style:
 # Social contact link
 # ---------------------------------------------------------------------------------------
 social_contact:
-  enable: false
+  enable: true
   links:
-    github: # your GitHub URL
+    github: https://github.com/mrfoxie # your GitHub URL
     weixin: # your WeChat QR-Code URL
     qq: # your QQ QR-Code URL
     weibo: # your WeiBo URL
     zhihu: # your ZhiHu URL
     twitter: # your twitter URL
     facebook: # your facebook URL
-    email: # your email
+    email: admin@mistrysiddh.com # your email
 
 # ---------------------------------------------------------------------------------------
 # Navigation menu
@@ -73,7 +73,7 @@ menu:
   # Categories: /categories
   # Tags: /tags
   # Links: /links
-  # About: /about
+  About: /about
   # Changelog: /changelog
   # ......
 
@@ -202,6 +202,10 @@ comment:
 # ---------------------------------------------------------------------------------------
 rss:
   enable: true
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
 
 # ---------------------------------------------------------------------------------------
 # Lazyload image
