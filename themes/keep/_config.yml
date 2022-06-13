@@ -127,7 +127,7 @@ toc:
   expand_all: false
 
   # If true, open TOC every time when you enter the article page
-  init_open: false
+  init_open: true
 
 # ---------------------------------------------------------------------------------------
 # Post copyright info
