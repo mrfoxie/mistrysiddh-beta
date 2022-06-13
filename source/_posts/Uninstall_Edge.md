@@ -17,11 +17,8 @@ series:
 - Windows
 categories:
 - Windows
-image: images/posts/uninstall-edge.jpg
+image: /images/posts/uninstall-edge.jpg
 ---
-![Uninstall Edge](images/posts/uninstall-edge.jpg)
-This goes over Removing Microsoft Edge Chromium edition and keeping it removed. 
-<!--more-->
 
 ## The Problem
 
