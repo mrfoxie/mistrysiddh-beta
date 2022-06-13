@@ -3,14 +3,6 @@ title: Update any PC to Windows 11
 date: 2021-07-10T19:06:27+05:30
 description: This is a guide going over updating any PC to Windows 11 that
   “doesn’t meet requirements” or doesn’t use Secure Boot or has a TPM 2.0 chip.
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /update-any-pc-to-windows-11/
-pinned: false
 image: images/posts/winver_KHcHK2lCu3.png
 tags:
   - technology
@@ -20,7 +12,7 @@ categories:
 series:
   - technology
 ---
-{{< featuredImage >}}
+![Update Any PC ti Win11](images/posts/winver_KHcHK2lCu3.png)
 ## Requirement software
 
 1. Latest version Windows 11. [Download](https://letsupload.io/2Txxv/21996.1.210529-1541.co_release_CLIENT_CONSUMER_x64FRE_en-us.iso)

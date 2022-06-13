@@ -2,14 +2,6 @@
 title: "Are We Living in Simulation Part 5"
 date: 2021-01-26T21:25:36Z
 description: "What if you are given one chance either to go in the future or the past. Which one will you choose? Will you go in past or will you go in future?"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /simulation-5/
-pinned: false
 tags:
   - matrix
   - simulation
@@ -25,13 +17,14 @@ series:
   - Truth
 image: images/posts/time-travel.jpg
 ---
-  {{< featuredImage >}}
+![Time Travel](images/posts/time-travel.jpg)
+
 
 ## Recap
 
 As in [part 1](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation/), we have talked about **Quantum Computers**, **Facebook AI Chat**, and **Predictions of AI Robots** wherein [part 2](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-2/) we had a recap of **part 1** and also **The Matrix** movie, **Roswell UFO Incident**, wherein [part 3](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/) we discussed on [**MKUltra**](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#what-is-mkultra) performed by `US Central Intelligence Agency`, [`Black Mirror: Bandersnatch`](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#black-mirror-bandersnatch) movie where you can control **Stefan Butler** by given two choices which leads to a different path in the movies. In [part 4](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-4/) we talked about [UFO](http://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-4/#ufo) also we seen [Space Mysteries](http://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-4/#space-mysteries) of `Restored Apollo 11` and also we saw the video a mysterious video where an unidentified spacecraft refuelling itself from the sun.
 
-{{< youtube S9HdPi9Ikhk >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S9HdPi9Ikhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What is Time?
 
@@ -128,9 +121,9 @@ In 1995 a match was played between the legendary boxers Mike Tyson and Peter McN
 
  But at that time there was no existence of a mobile phone. The first mobile cell phone came into existence in 1973 which was of Motorola. Here is the video of it.
 
- {{< youtube XbO2a3hFmO0 >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XbO2a3hFmO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- ### London Bridge Opening
+### London Bridge Opening
  ![London Bridge Opening](/images/posts/bridge-time-traveler.jpg)
 
  Out of all proofs of time travel, this assumes to be solid evidence of time travel.
@@ -164,9 +157,9 @@ A 44-year-old man [Andrew Carlssin](https://www.quora.com/Was-Andrew-Carlssin-ac
 
  Later, the FBI could not find out where both of them came from and where they went.
 
- {{< youtube YgfJ21CUvKI >}}
+<iframe width="560" height="315" src="https://www.youtube.com/YgfJ21CUvKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- ### Swiss ring watch
+### Swiss ring watch
  ![Swiss ring watch](/images/posts/Swiss-ring-watch.png)
 
  A watch was discovered when archaeologists began unsealing a tomb in China. That tomb was from the Ming Dynasty, and it was of 400-year-old.

@@ -1,15 +1,7 @@
 ---
-title: "Are We Living in Simulation Part 6"
+title: "Are We Living in Simulation Part 06"
 date: 2021-02-05T11:38:49+05:30
 description: "Have you thought that there are internet mysteries too where some are been solved and some are not the internet is like an ocean where we don't know what will happen also we don't know who is spying on us what we search etc."
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /simulation-6/
-pinned: false
 tags:
   - matrix
   - simulation
@@ -32,7 +24,7 @@ As in [part 1](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation/), w
 , [John Titor](https://www.mistrysiddh.tk/posts/are-we-living-in-simulation-part-5/#john-titor) well if the time travel is possible then it would be much more terrifying then we thought because they can go back to time and change the future or can destroy the future but there are many rules of travelling back or forward in time.
 
 
-{{< featuredImage >}}
+![Cicada 3301](images/posts/cicada-3301.jpg)
 
 ## Cicada 3301
 
@@ -65,13 +57,13 @@ The main mission of Cicada 3301 is still not known to the people due to its myst
 
 Those people who solve cicada 3301 still in a dilemma and they are not able to understand what is the main reason behind creating those puzzles. In a recent interview, Puzzle solvers have also mentioned the puzzles they have solved from their end and how it is not so easy for them in the beginning. It is an internet mystery and people are getting aware of it. Many folks have tried from their end but some of them become successful and some of them did not get much success in solving those highly complex problems. It is expected that soon a new puzzle set will be published on the site and people are waiting to try their luck. In the future, it has been cleared that people will show more excitement and eagerness to solve these puzzles, and soon we will come to know about some more people who are giving it a try for sure.
 
-{{< youtube _sepWhNGopg >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_sepWhNGopg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### What was the purpose of Cicasa 3301?
 
 It is normally believed that the results of solving the puzzle would lead the individuals to better know who these people are. As a participant, you are going to solve one puzzle and then another puzzle will be given to you with much-increasing difficulty level for sure. All the participants need to have high and strong knowledge regarding “Cryptography, coding, Steganography, Encryption, and many more. It is a famous mystery as people want to know who these people who have started this puzzle. Also, want to know the main reason behind hiring such intelligent individuals in a team. As per certain claims, it is believed it to be a secret society while others normally believed that Cicada 3301 is a religion or cult.
 
-{{< youtube a9z7LPBMHTg >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a9z7LPBMHTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 At the beginning of 2013, it was the time of round 3 puzzles. Once again the image includes the message and the message led to the book and also book led to the link. The procedure was the same as before but this time message led to the book named “ Liber Primus” ( First book). The book was written in Latin and originated from Russia. The book was a mystery for most people and many still not able to know the exact reason behind it. However, a significant portion of the book has yet to be translated. Out of 74 pages, only 19 pages have been successfully translated. From the year 2015 to now, no puzzles have been found but still internet users all around the world waiting for this mystery.
 

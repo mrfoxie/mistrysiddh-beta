@@ -2,14 +2,6 @@
 title: "WhatsApp Responds to Indian Govt's Letter to Withdraw Privacy Policy"
 date: 2021-01-21T14:54:38+05:30
 description: "WhatsApp privacy policy: MeitY on Tuesday suggested WhatsApp to withdraw the latest privacy policy. The Facebook-owned messaging platform has responded." 
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /whatsapp-responds-to-indian-government/
-pinned: false
 tags:
   - Facebook
   - Whatsapp
@@ -21,9 +13,9 @@ categories:
   - social media
 series:
   -
-image: https://www.windowscentral.com/sites/wpcentral.com/files/topic_images/2015/whatsapp-messenger-logo.png
+image: https://www.brandsynario.com/wp-content/uploads/2018/06/WhatsApp-Audio.jpg
 ---
-{{< featuredImage >}}
+![Whatsapp](https://www.brandsynario.com/wp-content/uploads/2018/06/WhatsApp-Audio.jpg)
 
 On Tuesday, the Ministry of Electronics and Information Technology (MeitY) sent a letter to WhatsApp CEO Will Cathcart stating that the new privacy policy “raise grave concerns regarding the implications for the choice and autonomy of Indian citizens.” MeitY also asked the messaging platform to withdraw the changes and “reconsider its approach to information privacy, freedom of choice and data security.” 
 

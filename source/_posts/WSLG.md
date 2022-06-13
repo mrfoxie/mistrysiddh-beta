@@ -2,14 +2,6 @@
 title: "WSL Graphics"
 date: 2021-06-19T09:59:27+05:30
 description: "WSLg is short for Windows Subsystem for Linux GUI and the purpose of the project is to enable support for running Linux GUI applications (X11 and Wayland) on Windows in a fully integrated desktop experience."
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /run-linux-GUI-apps-on-wsl2/
-pinned: false
 tags:
 - technology
 - wsl
@@ -27,7 +19,7 @@ image: images/posts/WSLg_IntegratedDesktop.png
 
 In previous post we have seen how to install [Windows Subsystem Linux](https://www.mistrysiddh.tk/posts/wsl2install) in your windows 10, so in this we will see how to use **GUI** on your system without any kind of software or other utilities. The main purpose of using this is so that you can easily use both the windows and Linux apps together on single operating system, after you have installed this WSLG on your system it will look like this.
 
-{{< featuredImage >}}
+![WSLG](images/posts/WSLg_IntegratedDesktop.png)
 
 Let's start the installation process.
 
@@ -55,11 +47,7 @@ Before you begin installation of WSLG you have to check few thing on your system
 
 I assume that you have installed WSL on your system but if you haven't installed it yet then go to [WSL2 Installation](https://www.mistrysiddh.tk/posts/ws2install/) and install it. Moving further If you have an existing WSL installation without WSLg and want to update to the latest version of WSL which includes WSLg, run the command `wsl --update` from an elevated command prompt, and also download and install [Linux GUI support](https://github.com/microsoft/wslg/releases/tag/v1.0.24) on your system so that the software requirement to run WSLg will be installed automatically. 
 
-{{<alert theme="info" dir="ltr">}}
-
 Please note that WSLg is only compatible with WSL 2 and will not work for WSL distribution configured to work in WSL 1 mode. Verify that your Linux distro is configured for running in WSL 2 mode, if not switch to WSL 2. While you can continue to run Linux distro in WSL 1 mode after installing WSLg if you so desired, a distro configured to run in WSL 1 mode will not be able to communicate with WSLg and will not be able to run GUI applications.
-
-{{</alert>}}
 
 You can list your currently installed distro and the version of WSL they are configured for using the following command from an elevated command prompt.
 

@@ -2,14 +2,6 @@
 title: "Nanotechnology"
 date: 2021-04-20T20:43:49+05:30
 description: "Nanotechnology, also shortened to nanotech, is the use of matter on an atomic, molecular, and supramolecular scale for industrial purposes. The earliest, widespread description of nanotechnology referred to the particular technological goal of precisely manipulating atoms and molecules for fabrication of macroscale products, also now referred to as molecular nanotechnology."
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /nanotechnology/
-pinned: false
 tags:
 - technology
 - robotics
@@ -25,7 +17,8 @@ image: images/posts/nanotechnology.jpg
 ---
 
 ## What is Nanotechnology?
-{{< featuredImage >}}
+![NanoTechnology](images/posts/nanotechnology.jpg)
+
 Nanotechnology is science, engineering, and technology conducted at the nanoscale, which is about 1 to 100 nanometers. Nanoscience and nanotechnology are the study and application of extremely small things and can be used across all the other science fields, such as chemistry, biology, physics, materials science, and engineering. It is the leading technology in the world where all the material are been made on the nanoscale level, you must have not been noticed that `Microcontroller` which we are using in our circuits and much more applications are been made up to the nanoscale level which is called `VLSI` Very Large Scale Integration. Nanotechnology is also called nanotech.
 
 ## Origins

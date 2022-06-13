@@ -2,14 +2,6 @@
 title: "Robotics"
 date: 2021-04-13T15:02:14+05:30
 description: "Robotics is the intersection of science, engineering and technology that produces machines, called robots, that substitute for (or replicate) human actions.  WALL-E. These over-exaggerated, humanoid concepts of robots usually seem like a caricature of the real thing...or are they more forward thinking than we realize? Robots are gaining intellectual and mechanical capabilities that don’t put the possibility of a R2-D2-like machine out of reach in the future."
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistr
-authorEmoji: 🤯
-url: /robotics/
-pinned: false
 tags:
 - robotics
 - technology
@@ -22,7 +14,7 @@ categories:
 - robotics
 image: images/posts/robotics.jpg
 ---
-{{< featuredImage >}}
+![Robotics](images/posts/robotics.jpg)
 ## Robotics
 Robotics is the intersection of science, engineering and technology that produces machines, called robots, that substitute for (or replicate) human actions. As you have seen in the movie such as I robot, wall-e, Transformer etc. where robots are been there. As time passes technology also evolves not also that it gets smatter and smatter also. 
 

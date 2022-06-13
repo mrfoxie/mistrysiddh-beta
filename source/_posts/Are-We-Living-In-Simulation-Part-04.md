@@ -1,15 +1,7 @@
 ---
-title: "Are We Living in Simulation Part 4"
+title: "Are We Living in Simulation Part 04"
 date: 2021-01-16T17:10:15+05:30
 description: "Governments hide many details from us also use us as an lab rats for there experiment? How many of us are been killed? What are government hiding from us? When we will be able to see the truth? We need answers."
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /simulation-4/
-pinned: false
 tags:
   - matrix
   - simulation
@@ -24,8 +16,7 @@ series:
   - World
 image: images/posts/Kayaba_warns_the_players.png
 ---
-
-{{< featuredImage >}}
+![SAO](images/posts/Kayaba_warns_the_players.png)
 
 ### Recap
 

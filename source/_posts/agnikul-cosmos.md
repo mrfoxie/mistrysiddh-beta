@@ -2,14 +2,6 @@
 title: "Agnikul Cosmos"
 date: 2021-03-29T15:29:18+05:30
 description: 
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /agnikul-cosmos/
-pinned: false
 tags:
 - technology
 - information
@@ -20,7 +12,8 @@ categories:
 image: images/posts/agnikul-cosmos.png
 ---
 ## Agnikul
-{{< featuredImage >}}
+![Agnikul](images/posts/agnikul-cosmos.png)
+
 "Agnikul” is a derivative of the Sanskrit word - “Gurukul” and it could be interpreted to mean “a place where people learn to use fire”. They are a group of enthusiasts, rocket scientists, engineers, programmers, lawyers, and more.
 
 First we will see little bit of information of 3D printer.

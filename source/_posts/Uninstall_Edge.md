@@ -19,8 +19,7 @@ categories:
 - Windows
 image: images/posts/uninstall-edge.jpg
 ---
-{{< featuredImage >}}
-
+![Uninstall Edge](images/posts/uninstall-edge.jpg)
 This goes over Removing Microsoft Edge Chromium edition and keeping it removed. 
 <!--more-->
 

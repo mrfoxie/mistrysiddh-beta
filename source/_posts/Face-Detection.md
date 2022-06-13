@@ -5,14 +5,6 @@ description: Face detection is a computer technology being used in a variety of
   applications that identifies human faces in digital images. Face detection
   also refers to the psychological process by which humans locate and attend to
   faces in a visual scene.
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /face-detection/
-pinned: false
 image: https://i.ytimg.com/vi/t-MDoI7MuY0/maxresdefault.jpg
 tags:
   - technology
@@ -28,7 +20,7 @@ categories:
 series:
   - World
 ---
-{{< featuredImage >}}
+![Face Detection](https://i.ytimg.com/vi/t-MDoI7MuY0/maxresdefault.jpg)
 
 ## What is Face Detection?
 
@@ -267,11 +259,6 @@ I have already installed it so it will give me this output
 
 #### Video detection
 
-{{<alert theme="danger">}}
-
-Your laptop camera may not have good quality of video so I suggest you to use remote camera of your phone(recommended) or webcam for better quality
-
-{{</alert>}}
 
 Close cmd and come back to your PyCharm, after we have installed all the required packages we will make a simple program for video capture so that we know that our video camera is working or not, but before we code in PyCharm we have to import all this packages we installed so follow me. First got to menu then File > Settings and you will see this window.
 
@@ -520,11 +507,6 @@ recognizer.train(x_train, np.array(y_labels)) # using numpy array we will be tra
 recognizer.save("trainer.yml") # and from above training we will be saving it in a single file called trainner.yml
 ```
 
-{{<alert theme="info">}}
-
-Remember one thing is that if the numbers of images are more or your processing speed is low then it may take hours also. The less number images result in less accuracy same as for more numbers of images there accuracy level will be more.
-
-{{</alert>}}
 
 As we have completed our `train-faces.py` we will run it and train our project so that we can recognize our faces, so now go to your cmd and `type py tain-faces.py` and wait until you get this message
 

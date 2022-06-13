@@ -27,8 +27,7 @@ categories:
 - technology
 image: https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png
 ---
-{{< featuredImage >}}
-
+![GUIScrcpy](https://raw.githubusercontent.com/srevinsaju/guiscrcpy-docs/master/docs/screen3.png)
 ## Requirement
 
 1. Android Phone

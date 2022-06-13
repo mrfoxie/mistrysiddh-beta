@@ -2,14 +2,6 @@
 title: "Creating a Website on Raspberry Pi at home"
 date: 2021-07-18T22:24:13+05:30
 description: "This is a guide on how to create a website on a Raspberry Pi. This will teach you the basics of using a LAMP stack."
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /create-own-website-at-home/
-pinned: false
 tags:
 - new site
 - technology
@@ -23,7 +15,7 @@ categories:
 - website
 image: https://i.ytimg.com/vi/QdHvS0D1zAI/maxresdefault.jpg
 ---
-{{< featuredImage >}}
+![Rasberry PI 4](https://i.ytimg.com/vi/QdHvS0D1zAI/maxresdefault.jpg)
 
 ## Overview
 

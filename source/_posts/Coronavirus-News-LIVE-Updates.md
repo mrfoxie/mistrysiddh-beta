@@ -2,14 +2,6 @@
 title: "Coronavirus News LIVE Updates: US Cases Top 25 Million"
 date: 2021-01-25T15:41:52+05:30
 description: "President Joe Biden will announce he is re-imposing a Covid-19 travel ban on most non-US citizens who have been in Britain, Brazil, Ireland and much of Europe, a White House official said Sunday, as the new administration ramps up its pandemic response."
-draft: false
-hideToc: false
-enableToc: false
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-url: /us-cases-top-25-million/
-pinned: false
 tags:
 - corona
 - vaccination
@@ -21,8 +13,7 @@ categories:
 image: images/posts/biden-pres.jpg
 ---
 ## Coronavirus News LIVE Updates: Tata in Talks to Launch Moderna Covid-19 Vaccine in India; US Cases Top 25 Million
-
-{{< featuredImage >}}
+![Corona Virus](images/posts/biden-pres.jpg)
 
 Coronavirus News LIVE Updates: Tata Medical & Diagnostics is said to have started initial discussions with Moderna Inc for a partnership to launch its COVID-19 vaccine in India, the Economic Times reported today. Tata could team up with the India's Council of Scientific & Industrial Research (CSIR) to carry out clinical trials of Moderna's vaccine candidate in India, the report added, citing officials familiar with the matter. The Indian government this month gave emergency-use approval to a COVID-19 vaccine developed by Bharat Biotech International Ltd and state-run Indian Council of Medical Research, and another licensed from Oxford University and AstraZeneca PLC that is being manufactured by the Serum Institute of India.
 

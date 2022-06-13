@@ -2,13 +2,6 @@
 title: "Raspberry Pi NAS System"
 date: 2022-02-11T14:17:46+05:30
 description: "Use your Raspberry Pi as NAS server at home or on a drive wherever you go. Simple steps to install and easy to set up everything"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-author: Siddh Mistry
-authorEmoji: 🤯
-pinned: false
 tags:
 - new site
 - technology
@@ -23,7 +16,8 @@ categories:
 url: /raspberrypi-nas/
 image: https://i.ytimg.com/vi/Jc4Y2jA4Yeg/maxresdefault.jpg
 ---
-{{< featuredImage >}}
+
+![PI NAS](https://i.ytimg.com/vi/Jc4Y2jA4Yeg/maxresdefault.jpg)
 
 ## Overview
 
@@ -181,10 +175,6 @@ As we have inserted external storage head over to **Storage** >> **Disk** and th
 
 ![Disk](/images/posts/omv-disk.png)
 
-{{< notice error "Warning" >}}
-We will be deleting all the data from the drive so make sure you do a backup of it.
-{{< /notice >}}
-
 Select the disk and then click on Wipe
 
 ![Disk Wipe](/images/posts/omv-disk-wipe.png)
@@ -211,9 +201,6 @@ After hitting Yes to add device take a cup of [coffee](https://www.buymeacoffee.
 ![Adding Device Complete](/images/posts/omv-adding-device-complete.png)
 
 Select your device and click on the mount option to mount your device. A pop-up has been visible on the top just hit on the `Apply` button to apply changes so that to make sure that what are we going to make changes will work properly. It will take a few minutes to complete the process.
-{{< notice warning "Notice" >}}
-whenever you see the `Apply` button on the top right then click it and Apply the following changes.
-{{< /notice >}}
 
 ### Sharing Folder setup
 ![Folder Sharing](/images/posts/omv-folder-setup.png)
@@ -239,7 +226,7 @@ Go ahead click on the `Add` button select your shared folder which you have been
 
 ## Accessing our NAS
 
-{{< youtube gwM9RaemCvE >}}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gwM9RaemCvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Before we move on `Windows User` please see the above video to enable `SMB`, as I'm on Ubuntu I can directly access it
 
 ![NAS Test](/images/posts/omv-nas-folder.png)
