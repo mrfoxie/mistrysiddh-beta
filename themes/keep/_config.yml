@@ -38,7 +38,7 @@ style:
 
   # First screen
   first_screen:
-    enable: true
+    enable: false
     background_img: /images/bg.svg # You can use local image or image external link
     description: Madness is like Gravity, All you need is a little push.
 
