@@ -1,0 +1,89 @@
+- name: Awwwards
+  link: https://www.awwwards.com/websites/developer/
+  description: "Awwwards is a professional web design and development competition body. It aims to recognize and promote the best of innovative web design. It is a website competition that developers can submit to. The best year-round submissions are awarded at the Awwwards conference and prize-giving ceremony, which take place in various cities across the United States and Europe. Awwwards was founded in 2009, and is headquartered in Valencia, Spain."
+  avatar: /images/sites/Awwwards.png
+
+- name: Canva
+  link: https://www.canva.com
+  description: "Canva is a graphic design platform, used to create social media graphics, presentations, posters, documents and other visual content. The app already includes templates for users to use. The platform is free to use and offers paid subscriptions like Canva Pro and Canva for Enterprise for additional functionality."
+  avatar: /images/sites/Canva.png
+
+- name: Flutter
+  link: https://flutter.dev/
+  description: "Flutter is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia, and the web from a single codebase. The first version of Flutter was known as codename 'Sky' and ran on the Android operating system."
+  avatar: /images/sites/flutter.png
+
+- name: Hacker News
+  link: https://news.ycombinator.com/
+  description: "Its like Reddit but for developers! Hacker News is the go-to site for developer news related to all the things that might be weighing on your mind at any given time. Case in point: hundreds of developers hopped on to discuss the massive AWS S3 outage on February 28, 2017. Few can appreciate the epic disaster caused by such an outage than your fellow developers."
+  avatar: /images/sites/hacker-news.png
+
+- name: HackerIdiot
+  link: https://www.hackeridiot.com
+  description: "Welcome to HackerIdiot. We provide the latest news such as Hacking News, Cyber Security News, Deep Web News, Dark Web News, I2P News from all different sources at one place."
+  avatar: /images/sites/hackeridiot.svg
+
+- name: Uplabs
+  link: https://www.uplabs.com/
+  description: "UpLabs curates the best of design & development inspiration, resources and freebies. Every day!"
+  avatar: /images/sites/uplabs.svg
+
+- name: Code SandBox
+  link: https://codesandbox.io/
+  description: "A sandbox is a testing environment that isolates untested code changes and outright experimentation from the production environment or repository, in the context of software development including Web development and revision control."
+  avatar: /images/code/codesandbox.png
+
+- name: Gitpod
+  link: https://www.gitpod.io/
+  description: "Dev Environments Built for the Cloud. Describe your dev environments as code and automate the last missing piece in your DevOps pipeline."
+  avatar: /images/code/gitpod.svg
+
+- name: SoloLearn
+  link: https://code.sololearn.com/
+  description: "SoloLearn: Learn to code for FREE! courses; code playground; Discuss; top learners; blog; sign in. Learn to code for free! Interactive lessons, 'on-the-go' practice, peer support. Start Learning Now! I already have an account Python 3 Learn Python, one of today's most in-demand programming languages on-the-go!"
+  avatar: /images/code/sololearn.jpg
+
+- name: Codepen
+  link: https://codepen.io/
+  description: "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration."
+  avatar: /images/code/codepen.png
+
+- name: Stack Overflow
+  link: https://stackoverflow.com/
+  description: "Stack Overflow for Teams is a private, secure spot for you and your coworkers to find and share information. Learn more . We <3 people who code. We build products that empower developers and connect them to solutions that enable productivity, growth, and discovery."
+  avatar: /images/community/stack_overflow.jpg
+
+- name: Ask Ubuntu
+  link: https://askubuntu.com/
+  description: "Ask Ubuntu is a community-driven question and answer website for the Ubuntu operating system. It is part of the Stack Exchange Network, running the same software as Stack Overflow. Members gain reputation based on the community's response to their questions and answers."
+  avatar: /images/community/askubuntu.png
+
+- name: Stack Exchange
+  link: https://stackexchange.com/
+  description: "Stack Exchange is a network of question-and-answer websites on topics in diverse fields, each site covering a specific topic, where questions, answers, and users are subject to a reputation award process. The reputation system allows the sites to be self-moderating."
+  avatar: /images/community/stackexchange.png
+
+- name: Codeacademy
+  link: https://www.codecademy.com/
+  description: "Learn the technical skills you need for the job you want. As leaders in online education and learning to code, we've taught over 45 million people using a tested curriculum and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more."
+  avatar: /images/learn/codecademy_logo_detail.png
+
+- name: Coursera
+  link: https://www.coursera.org/
+  description: "Join Coursera for free and learn online. Build skills with courses from top universities like Yale, Michigan, Stanford, and leading companies like Google and IBM. Advance your career with degrees, certificates, Specializations, & MOOCs in data science, computer science, business, and dozens of other topics."
+  avatar: /images/learn/coursera.svg
+
+- name: Khan Academy
+  link: https://www.khanacademy.org/
+  description: "Khan Academy is a nonprofit with the mission of providing a free, world-class education for anyone, anywhere. Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, history, and more."
+  avatar: /images/learn/khanacademy.jpg
+
+- name: FreeCodeCamp
+  link: https://www.freecodecamp.org/
+  description: "FreeCodeCamp is a donor-supported tax-exempt 501(c)(3) nonprofit organization (United States Federal Tax Identification Number 82-0779546) Our mission - to help people learn to code for free. We accomplish this by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public."
+  avatar: /images/learn/freeCodeCamp.png
+
+- name: Udemy
+  link: https://www.udemy.com/
+  description: "Udemy, Inc. is an American massive open online course provider aimed at professional adults and students. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar. As of January 2020, the platform has more than 35 million students and 57,000 instructors teaching courses in over 65 languages."
+  avatar: /images/learn/udemy.svg
