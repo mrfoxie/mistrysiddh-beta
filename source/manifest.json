@@ -1,0 +1,31 @@
+{
+    "name": "Mr. Blogger",
+    "short_name": "Blogger",
+    "description": "Get Weakly News Related To Different Kinds Of News, Tips, Tricks, Etc. If You Have Your Own Theory Or Story Then Comment Down In The Post.",
+    "icons": [{
+        "src": "/favicon/favicon-96x96.png",
+        "sizes": "128x128",
+        "type": "image/png"
+    }, {
+        "src": "/favicon/apple-icon-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }, {
+        "src": "/favicon/apple-icon-152x152.png",
+        "sizes": "152x152",
+        "type": "image/png"
+    }, {
+        "src": "/favicon/favicon-96x96.png",
+        "sizes": "196x196",
+        "type": "image/png"
+    }, {
+        "src": "/images/whoami/Banner.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#FFFFFF",
+    "theme_color": "#b42000"
+}
