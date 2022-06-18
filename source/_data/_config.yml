@@ -39,7 +39,7 @@ style:
   # First screen
   first_screen:
     enable: true
-    background_img: /images/bg.svg # You can use local image or image external link
+    background_img: https://r4.wallpaperflare.com/wallpaper/42/94/569/programming-php-code-developer-wallpaper-02c152206d464ecbba48a2a510d849f2.jpg # You can use local image or image external link
     description: Madness is like Gravity, All you need is a little push.
 
   # Scroll style settings
