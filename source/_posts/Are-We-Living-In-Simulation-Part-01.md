@@ -1,5 +1,5 @@
 ---
-title: "Are We Living in Simulation 01"
+title: "Are We Living in Simulation Part 01"
 date: 2020-12-17T15:52:54+05:30
 description: "What is REAL? How do we define REAL? If you're talking about what you can FEEL, what you can SMELL, what you can TASTE and SEE. Than REAL is simply electrical signals interpreted by BRAIN"
 tags:
