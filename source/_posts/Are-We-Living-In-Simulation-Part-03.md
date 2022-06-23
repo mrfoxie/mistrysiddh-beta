@@ -19,7 +19,7 @@ series:
   - World
 ---
 
-I suggest you kindly read both the part so that you can understand on which topic we are discussing on [Part One](http://mistrysiddh.tk/posts/are-we-living-in-simulation/) & [Part Second](http://mistrysiddh.tk/posts/are-we-living-in-simulation-2/).
+I suggest you kindly read both the part so that you can understand on which topic we are discussing on [Part One](https://mistrysiddh.com/2020/12/17/Are-We-Living-In-Simulation-Part-01/) & [Part Second](https://mistrysiddh.com/2020/12/19/Are-We-Living-In-Simulation-Part-02/).
 
 > Almost all people are hypnotics. The proper authority saw to it that the proper belief should be induced, and the people believed properly.
 

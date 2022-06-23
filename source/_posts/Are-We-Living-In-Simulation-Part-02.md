@@ -17,7 +17,7 @@ categories:
 image: images/posts/pilles.jpg
 ---
 
-if you have not read part one then read it first. [Read it](http://mistrysiddh.tk/posts/are-we-living-in-simulation/) (optional)
+if you have not read part one then read it first. [Read it](https://mistrysiddh.com/2020/12/17/are-we-living-in-simulation-part-01/) (optional)
 
 ## Part 2
 

@@ -20,7 +20,7 @@ image: images/posts/Kayaba_warns_the_players.png
 
 ### Recap
 
-As in [part 1](https://mistrysiddh.tk/posts/are-we-living-in-simulation/) we have talked about **Quantum Computers**, **Facebook AI Chat**, and **Predictions of AI Robots** where in [part 2](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-2/) we had a recap of **part 1** and also **The Matrix** movie, **Roswell UFO Incident**, where in [part 3](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/) we discussed on [**MKUltra**](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#what-is-mkultra) performed by `US Central Intelligence Agency`, [`Black Mirror: Bandersnatch`](https://mistrysiddh.tk/posts/are-we-living-in-simulation-part-3/#black-mirror-bandersnatch) movie where you can control **Stefan Butler** by given two choices which leads to different path in the movies.
+As in [part 1](https://mistrysiddh.com/2020/12/17/Are-We-Living-In-Simulation-Part-01/) we have talked about **Quantum Computers**, **Facebook AI Chat**, and **Predictions of AI Robots** where in [part 2](https://mistrysiddh.com/2020/12/19/Are-We-Living-In-Simulation-Part-02/) we had a recap of **part 1** and also **The Matrix** movie, **Roswell UFO Incident**, where in [part 3](https://mistrysiddh.com/2021/01/03/Are-We-Living-In-Simulation-Part-03/) we discussed on [**MKUltra**](https://mistrysiddh.com/2021/01/03/are-we-living-in-simulation-part-03/#MKUltra) performed by `US Central Intelligence Agency`, [`Black Mirror: Bandersnatch`](https://mistrysiddh.com/2021/01/03/are-we-living-in-simulation-part-03/#Black-Mirror-Bandersnatch) movie where you can control **Stefan Butler** by given two choices which leads to different path in the movies.
 
 ## UFO
 
