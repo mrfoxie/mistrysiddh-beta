@@ -70,6 +70,7 @@ social_contact:
 menu:
   Home: /
   Archives: /archives
+  Python: /python
   # Categories: /categories
   # Tags: /tags
   Links: /links
