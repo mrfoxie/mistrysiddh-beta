@@ -9,7 +9,7 @@ description: 'Mistry Siddh - Get Weakly News Related To Different Kinds Of News,
 keywords:
 author: Mistry Siddh
 language: en
-timezone: ''
+timezone: 'Asia/Kolkata'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -108,4 +108,4 @@ deploy:
 base_info:
   title: Mr. Blogger
   author: Mistry Siddh
-  url: https://keep.xpoet.cn/
+  url: https://www.mistrysiddh.com/

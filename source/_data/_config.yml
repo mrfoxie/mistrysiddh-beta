@@ -4,7 +4,7 @@
 base_info:
   title: Mr. Blogger
   author: Mistry Siddh
-  url: https://mistrysiddh.com
+  url: https://www.mistrysiddh.com
   description: 'Get Weakly News Related To Different Kinds Of News, Tips, Tricks, Etc. If You Have Your Own Theory Or Story Then Comment Down In The Post.'
   # Logo image (You can use local image, image external link or don’t fill)
   logo_img: https://www.mistrysiddh.com/images/whoami/avatar.png
@@ -62,7 +62,7 @@ social_contact:
     zhihu: # your ZhiHu URL
     twitter: # your twitter URL
     facebook: # your facebook URL
-    email: admin@mistrysiddh.com # your email
+    email: hello@mistrysiddh.com # your email
 
 # ---------------------------------------------------------------------------------------
 # Navigation menu
